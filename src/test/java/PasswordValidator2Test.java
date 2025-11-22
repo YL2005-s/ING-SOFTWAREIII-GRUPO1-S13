@@ -1,11 +1,10 @@
 import org.junit.jupiter.api.Test;
-import org.nsq.PasswordValidator;
 import org.nsq.PasswordValidator2;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class PasswordValidatorTest2 {
+public class PasswordValidator2Test {
 
     @Test
     void testValidPassword() {
